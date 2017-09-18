@@ -1,1 +1,15 @@
+.tableau_contact{
+	display:flex;
+	flex-wrap: wrap;
+	border:2% solid black;
+	
 
+
+
+}
+
+li:nth-child(odd){
+
+background-color:grey;
+
+}

@@ -1,1 +1,36 @@
-.master{}
+.master{ 
+	
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	
+
+
+	
+
+}
+.master h1{
+	width: 100%;
+}
+
+.master div {
+	width:40%;
+	background-color:#48918d;
+	margin: 0 0 4% 0;
+	padding: 2%;
+	
+
+
+}
+
+.master img{
+float: left;
+ width: 40%
+ 
+}
+  
+ .master p{
+ 
+justify-content: space-between;
+
+ }
